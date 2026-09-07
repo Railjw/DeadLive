@@ -44,5 +44,6 @@ public class DeadlockExample {
 
         threadOne.start();
         threadTwo.start();
+
     }
 }

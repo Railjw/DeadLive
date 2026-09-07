@@ -47,5 +47,6 @@ public class AlternatingOutput {
 
         threadOne.start();
         threadTwo.start();
+
     }
 }
